@@ -12,3 +12,5 @@ def isUnique(string):
 print(isUnique(""))
 print(isUnique("abcde"))
 print(isUnique("abcda"))
+
+## o(n) time and o(n) space
